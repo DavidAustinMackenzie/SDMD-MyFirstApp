@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">MyFirstApp</string>
     <string name="title">Allora Station</string>
-    <string name="artist">Train Station</string>
+    <string name="artist">The Train Station</string>
     <string name="source">Source: https://www.abc.net.au/news/2017-06-20
         /old-train-tracks-lead-photographer-down-memory-lane/8635340</string>
 </resources>
